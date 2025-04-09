@@ -38,3 +38,8 @@ Great intro to Turtle Graphics
 
 100% beginner-friendly and open-source!
 
+📄 License This project is open source — feel free to modify and share it!
+
+👋 Let's Connect Created with 💻 by Filip Matevski
+
+If you like the project, feel free to ⭐️ the repo!
